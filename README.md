@@ -56,20 +56,23 @@ To run this project, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone <https://github.com/MohanGuptaKoduru/Website-Saftey-and-Classification-Application>
    cd website-saftey-application
+   ```
    
    
 2. Install the required Python libraries:
-   bash
+   ```bash
    pip install -r requirements.txt
+   ```
    
    
 3. Set up environment variables for email credentials in <b>In Email Code file:
-   bash
+   ```bash
    EMAIL_ID="your_email@example.com"
    EMAIL_PASSWORD="your_email_password"
+   ```
    
 ## Running the Application
 
@@ -77,8 +80,9 @@ To run this project, ensure you have the following installed:
 
 Launch the Flask app:
 
-bash
+```bash
 python app.py
+```
 
 
 Open a browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
@@ -87,8 +91,9 @@ Open a browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 
 Run the server script in a new terminal:
 
-bash
+```bash
 python server.py
+```
 
 
 ## Usage
