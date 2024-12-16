@@ -95,6 +95,8 @@ Run the server script in a new terminal:
 python server.py
 ```
 
+## PPT Presentation
+Here is the link of the presentation https://mohaguptakoduru.my.canva.site/
 
 ## Usage
 
